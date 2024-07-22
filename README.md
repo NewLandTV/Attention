@@ -36,3 +36,8 @@ python Train.py  --n=6 --d_model=512 --d_ff=8 --h=8 --d_k=64 --d_v=64 --p_drop=0
 ```sh
 python Test.py --model_path="./Model.pb" --root_data_path=".Data" --use_small_data --max_seq_len=5000
 ```
+
+## References
+
+- https://arxiv.org/pdf/1706.03762
+- https://github.com/the-jb/attention-is-all-you-need
