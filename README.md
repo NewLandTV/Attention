@@ -7,7 +7,7 @@ Implementing Attention Is All You Need with PyTorch.
 ### Clone this repository
 
 ```sh
-git clone https://NewLandTV/Attention.git
+git clone https://github.com/NewLandTV/Attention.git
 ```
 
 ### Create virtual environment
